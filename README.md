@@ -1,5 +1,5 @@
 # cahweb
-Cards Aganist Humanity clone
+Cards Against Humanity clone
 
 ## Screenshots
 Room selection screen
